@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\Desktop\\Gabriel\\dev\\Projetos\\FolhaPagamento\\FolhaPagamento\\FolhaPagamento.csproj": {}
+    "C:\\Users\\Gabriel\\Desktop\\Gabriel\\dev\\Projetos\\FolhaPagamento - v1\\FolhaPagamento\\FolhaPagamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\Desktop\\Gabriel\\dev\\Projetos\\FolhaPagamento\\FolhaPagamento\\FolhaPagamento.csproj": {
+    "C:\\Users\\Gabriel\\Desktop\\Gabriel\\dev\\Projetos\\FolhaPagamento - v1\\FolhaPagamento\\FolhaPagamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\Gabriel\\dev\\Projetos\\FolhaPagamento\\FolhaPagamento\\FolhaPagamento.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\Desktop\\Gabriel\\dev\\Projetos\\FolhaPagamento - v1\\FolhaPagamento\\FolhaPagamento.csproj",
         "projectName": "FolhaPagamento",
-        "projectPath": "C:\\Users\\Gabriel\\Desktop\\Gabriel\\dev\\Projetos\\FolhaPagamento\\FolhaPagamento\\FolhaPagamento.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\Desktop\\Gabriel\\dev\\Projetos\\FolhaPagamento - v1\\FolhaPagamento\\FolhaPagamento.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\Desktop\\Gabriel\\dev\\Projetos\\FolhaPagamento\\FolhaPagamento\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\Desktop\\Gabriel\\dev\\Projetos\\FolhaPagamento - v1\\FolhaPagamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
