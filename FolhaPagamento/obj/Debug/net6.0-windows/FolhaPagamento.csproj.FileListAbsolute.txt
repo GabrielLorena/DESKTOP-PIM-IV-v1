@@ -23,3 +23,12 @@ C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\DESKTOP-PIM-IV\FolhaPagamento\obj\
 C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\DESKTOP-PIM-IV\FolhaPagamento\obj\Debug\net6.0-windows\FolhaPagamento.dll
 C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\DESKTOP-PIM-IV\FolhaPagamento\obj\Debug\net6.0-windows\refint\FolhaPagamento.dll
 C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\DESKTOP-PIM-IV\FolhaPagamento\obj\Debug\net6.0-windows\FolhaPagamento.pdb
+C:\Users\eduvi\OneDrive\Área de Trabalho\TelaLogin\DESKTOP-PIM-IV\FolhaPagamento\obj\Debug\net6.0-windows\FolhaPagamento.Form1.resources
+C:\Users\eduvi\OneDrive\Área de Trabalho\TelaLogin\DESKTOP-PIM-IV\FolhaPagamento\obj\Debug\net6.0-windows\FolhaPagamento.csproj.GenerateResource.cache
+C:\Users\eduvi\OneDrive\Área de Trabalho\TelaLogin\DESKTOP-PIM-IV\FolhaPagamento\obj\Debug\net6.0-windows\FolhaPagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduvi\OneDrive\Área de Trabalho\TelaLogin\DESKTOP-PIM-IV\FolhaPagamento\obj\Debug\net6.0-windows\FolhaPagamento.AssemblyInfoInputs.cache
+C:\Users\eduvi\OneDrive\Área de Trabalho\TelaLogin\DESKTOP-PIM-IV\FolhaPagamento\obj\Debug\net6.0-windows\FolhaPagamento.AssemblyInfo.cs
+C:\Users\eduvi\OneDrive\Área de Trabalho\TelaLogin\DESKTOP-PIM-IV\FolhaPagamento\obj\Debug\net6.0-windows\FolhaPagamento.csproj.CoreCompileInputs.cache
+C:\Users\eduvi\OneDrive\Área de Trabalho\TelaLogin\DESKTOP-PIM-IV\FolhaPagamento\obj\Debug\net6.0-windows\FolhaPagamento.dll
+C:\Users\eduvi\OneDrive\Área de Trabalho\TelaLogin\DESKTOP-PIM-IV\FolhaPagamento\obj\Debug\net6.0-windows\refint\FolhaPagamento.dll
+C:\Users\eduvi\OneDrive\Área de Trabalho\TelaLogin\DESKTOP-PIM-IV\FolhaPagamento\obj\Debug\net6.0-windows\FolhaPagamento.pdb
