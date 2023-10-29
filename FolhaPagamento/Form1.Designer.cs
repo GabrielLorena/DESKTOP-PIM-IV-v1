@@ -40,19 +40,19 @@
             label13 = new Label();
             button1 = new Button();
             button2 = new Button();
-            textBox2 = new TextBox();
-            textBox3 = new TextBox();
-            textBox7 = new TextBox();
-            textBox11 = new TextBox();
+            txt_Nome = new TextBox();
+            txt_Cargo = new TextBox();
+            txt_End = new TextBox();
+            txt_Departamento = new TextBox();
             backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
-            maskedTextBox2 = new MaskedTextBox();
-            maskedTextBox1 = new MaskedTextBox();
-            maskedTextBox4 = new MaskedTextBox();
-            dateTimePicker1 = new DateTimePicker();
-            numericUpDown2 = new NumericUpDown();
+            masked_CPF = new MaskedTextBox();
+            masked_Telefone = new MaskedTextBox();
+            masked_Admissao = new MaskedTextBox();
+            dateTimePicker_Data = new DateTimePicker();
+            numeric_Salario = new NumericUpDown();
             label14 = new Label();
             label15 = new Label();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown2).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_Salario).BeginInit();
             SuspendLayout();
             // 
             // label1
@@ -165,75 +165,75 @@
             button2.Text = "Voltar";
             button2.UseVisualStyleBackColor = true;
             // 
-            // textBox2
+            // txt_Nome
             // 
-            textBox2.Location = new Point(145, 103);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(168, 23);
-            textBox2.TabIndex = 16;
-            textBox2.TextChanged += textBox2_TextChanged;
+            txt_Nome.Location = new Point(145, 103);
+            txt_Nome.Name = "txt_Nome";
+            txt_Nome.Size = new Size(168, 23);
+            txt_Nome.TabIndex = 16;
+            txt_Nome.TextChanged += textBox2_TextChanged;
             // 
-            // textBox3
+            // txt_Cargo
             // 
-            textBox3.Location = new Point(541, 220);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(100, 23);
-            textBox3.TabIndex = 17;
-            textBox3.TextChanged += textBox3_TextChanged;
+            txt_Cargo.Location = new Point(541, 220);
+            txt_Cargo.Name = "txt_Cargo";
+            txt_Cargo.Size = new Size(100, 23);
+            txt_Cargo.TabIndex = 17;
+            txt_Cargo.TextChanged += textBox3_TextChanged;
             // 
-            // textBox7
+            // txt_End
             // 
-            textBox7.Location = new Point(145, 212);
-            textBox7.Name = "textBox7";
-            textBox7.Size = new Size(208, 23);
-            textBox7.TabIndex = 21;
+            txt_End.Location = new Point(145, 212);
+            txt_End.Name = "txt_End";
+            txt_End.Size = new Size(208, 23);
+            txt_End.TabIndex = 21;
             // 
-            // textBox11
+            // txt_Departamento
             // 
-            textBox11.Location = new Point(541, 141);
-            textBox11.Name = "textBox11";
-            textBox11.Size = new Size(100, 23);
-            textBox11.TabIndex = 25;
+            txt_Departamento.Location = new Point(541, 141);
+            txt_Departamento.Name = "txt_Departamento";
+            txt_Departamento.Size = new Size(100, 23);
+            txt_Departamento.TabIndex = 25;
             // 
-            // maskedTextBox2
+            // masked_CPF
             // 
-            maskedTextBox2.Location = new Point(145, 144);
-            maskedTextBox2.Mask = "000.000.000-00";
-            maskedTextBox2.Name = "maskedTextBox2";
-            maskedTextBox2.Size = new Size(100, 23);
-            maskedTextBox2.TabIndex = 28;
-            maskedTextBox2.MaskInputRejected += maskedTextBox2_MaskInputRejected;
+            masked_CPF.Location = new Point(145, 144);
+            masked_CPF.Mask = "000.000.000-00";
+            masked_CPF.Name = "masked_CPF";
+            masked_CPF.Size = new Size(100, 23);
+            masked_CPF.TabIndex = 28;
+            masked_CPF.MaskInputRejected += maskedTextBox2_MaskInputRejected;
             // 
-            // maskedTextBox1
+            // masked_Telefone
             // 
-            maskedTextBox1.Location = new Point(145, 179);
-            maskedTextBox1.Mask = "00 000000000";
-            maskedTextBox1.Name = "maskedTextBox1";
-            maskedTextBox1.Size = new Size(100, 23);
-            maskedTextBox1.TabIndex = 29;
+            masked_Telefone.Location = new Point(145, 179);
+            masked_Telefone.Mask = "00 000000000";
+            masked_Telefone.Name = "masked_Telefone";
+            masked_Telefone.Size = new Size(100, 23);
+            masked_Telefone.TabIndex = 29;
             // 
-            // maskedTextBox4
+            // masked_Admissao
             // 
-            maskedTextBox4.Location = new Point(541, 103);
-            maskedTextBox4.Mask = "00/00/0000";
-            maskedTextBox4.Name = "maskedTextBox4";
-            maskedTextBox4.Size = new Size(100, 23);
-            maskedTextBox4.TabIndex = 31;
+            masked_Admissao.Location = new Point(541, 103);
+            masked_Admissao.Mask = "00/00/0000";
+            masked_Admissao.Name = "masked_Admissao";
+            masked_Admissao.Size = new Size(100, 23);
+            masked_Admissao.TabIndex = 31;
             // 
-            // dateTimePicker1
+            // dateTimePicker_Data
             // 
-            dateTimePicker1.Format = DateTimePickerFormat.Short;
-            dateTimePicker1.Location = new Point(541, 181);
-            dateTimePicker1.Name = "dateTimePicker1";
-            dateTimePicker1.Size = new Size(96, 23);
-            dateTimePicker1.TabIndex = 32;
+            dateTimePicker_Data.Format = DateTimePickerFormat.Short;
+            dateTimePicker_Data.Location = new Point(541, 181);
+            dateTimePicker_Data.Name = "dateTimePicker_Data";
+            dateTimePicker_Data.Size = new Size(96, 23);
+            dateTimePicker_Data.TabIndex = 32;
             // 
-            // numericUpDown2
+            // numeric_Salario
             // 
-            numericUpDown2.Location = new Point(145, 247);
-            numericUpDown2.Name = "numericUpDown2";
-            numericUpDown2.Size = new Size(100, 23);
-            numericUpDown2.TabIndex = 34;
+            numeric_Salario.Location = new Point(145, 247);
+            numeric_Salario.Name = "numeric_Salario";
+            numeric_Salario.Size = new Size(100, 23);
+            numeric_Salario.TabIndex = 34;
             // 
             // label14
             // 
@@ -258,15 +258,15 @@
             ClientSize = new Size(800, 450);
             Controls.Add(label15);
             Controls.Add(label14);
-            Controls.Add(numericUpDown2);
-            Controls.Add(dateTimePicker1);
-            Controls.Add(maskedTextBox4);
-            Controls.Add(maskedTextBox1);
-            Controls.Add(maskedTextBox2);
-            Controls.Add(textBox11);
-            Controls.Add(textBox7);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
+            Controls.Add(numeric_Salario);
+            Controls.Add(dateTimePicker_Data);
+            Controls.Add(masked_Admissao);
+            Controls.Add(masked_Telefone);
+            Controls.Add(masked_CPF);
+            Controls.Add(txt_Departamento);
+            Controls.Add(txt_End);
+            Controls.Add(txt_Cargo);
+            Controls.Add(txt_Nome);
             Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(label7);
@@ -282,7 +282,7 @@
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
-            ((System.ComponentModel.ISupportInitialize)numericUpDown2).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numeric_Salario).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -301,16 +301,16 @@
         private Label label13;
         private Button button1;
         private Button button2;
-        private TextBox textBox2;
-        private TextBox textBox3;
-        private TextBox textBox7;
-        private TextBox textBox11;
+        private TextBox txt_Nome;
+        private TextBox txt_Cargo;
+        private TextBox txt_End;
+        private TextBox txt_Departamento;
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
-        private MaskedTextBox maskedTextBox2;
-        private MaskedTextBox maskedTextBox1;
-        private MaskedTextBox maskedTextBox4;
-        private DateTimePicker dateTimePicker1;
-        private NumericUpDown numericUpDown2;
+        private MaskedTextBox masked_CPF;
+        private MaskedTextBox masked_Telefone;
+        private MaskedTextBox masked_Admissao;
+        private DateTimePicker dateTimePicker_Data;
+        private NumericUpDown numeric_Salario;
         private Label label14;
         private Label label15;
     }
