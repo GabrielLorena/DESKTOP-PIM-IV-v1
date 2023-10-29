@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\FolhaPagamento\FolhaPagamento\bin\Debug\net6.0-windows\FolhaPagamento.exe
+C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\FolhaPagamento\FolhaPagamento\bin\Debug\net6.0-windows\FolhaPagamento.deps.json
+C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\FolhaPagamento\FolhaPagamento\bin\Debug\net6.0-windows\FolhaPagamento.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\FolhaPagamento\FolhaPagamento\bin\Debug\net6.0-windows\FolhaPagamento.dll
+C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\FolhaPagamento\FolhaPagamento\bin\Debug\net6.0-windows\FolhaPagamento.pdb
+C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0-windows\FolhaPagamento.Form1.resources
+C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0-windows\FolhaPagamento.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0-windows\FolhaPagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0-windows\FolhaPagamento.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0-windows\FolhaPagamento.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0-windows\FolhaPagamento.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0-windows\FolhaPagamento.dll
+C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0-windows\refint\FolhaPagamento.dll
+C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0-windows\FolhaPagamento.pdb
+C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0-windows\FolhaPagamento.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Gabriel\dev\Projetos\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0-windows\ref\FolhaPagamento.dll
